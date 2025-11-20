@@ -1,0 +1,9 @@
+.venv/
+ai_image_env/
+build/
+dist/
+output/
+*.spec
+*.exe
+__pycache__/
+*.pyc
